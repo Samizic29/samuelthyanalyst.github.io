@@ -8,4 +8,6 @@
 
 > You can check out my portfolio and connect with me.
 
+> I'm open to data analytics gigs and collaborations.
+
 Thank you.
