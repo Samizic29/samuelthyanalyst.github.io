@@ -196,7 +196,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 3rem;
+		font-size: 2rem;
 		line-height: 1.1;
 		margin: 0 0 2rem 0;
 	}
@@ -3386,7 +3386,7 @@ input, select, textarea {
 				}
 
 		#intro h1 {
-			font-size: 5rem;
+			font-size: 2.25rem;
 			line-height: 1;
 		}
 
@@ -3474,8 +3474,8 @@ input, select, textarea {
 			}
 
 				#intro h1 {
-					font-size: 3.25rem;
-					line-height: 1.1;
+					font-size: 2.25rem;
+					line-height: 1;
 					margin-bottom: 1rem;
 				}
 
@@ -3486,6 +3486,15 @@ input, select, textarea {
 
 				#intro .actions {
 					display: none;
+				}
+
+		}
+
+		@media screen and (max-width: 480px) {
+				#intro h1 {
+					font-size: 1.5rem;
+					line-height: 1.1;
+					margin-bottom: 1rem;
 				}
 
 		}
